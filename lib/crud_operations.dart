@@ -48,9 +48,9 @@ class _CrudExampleState extends State<CrudExample> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color.fromARGB(255, 233, 211, 177),
+      backgroundColor: const Color.fromARGB(255, 223, 191, 144),
       appBar: AppBar(title:  Text("Student List Crud"),
-      backgroundColor: const Color.fromARGB(255, 185, 159, 150),),
+      backgroundColor: const Color.fromARGB(255, 122, 83, 70),),
       body: Padding(
         padding:  EdgeInsets.all(26),
         child: Column(
